@@ -1,6 +1,6 @@
 # Navigate to project directory
 
-cd dynamic-day-count
+cd dynamicdaycount
 
 # Install dependencies
 
